@@ -1,0 +1,130 @@
+#main-window {
+    --toolbar-bgcolor: #153B50 !important;
+    --button-hover-bgcolor: rgba(255, 255, 255, 0.141) !important;
+}
+
+/* sidebar */
+#sidebar-header {
+    border-bottom: none !important;
+    padding: 8px 0px !important;
+    margin-left: 5px!important;
+}
+
+#sidebar-box {
+    background-color: #153B50 !important;
+    min-width: 50px !important;
+}
+
+#bookmarksPanel {
+    --lwt-sidebar-background-color: none !important;
+}
+
+html {
+    --lwt-sidebar-background-color: none !important;
+}
+
+#history-panel {
+    --lwt-sidebar-background-color: none !important;
+}
+
+#sidebar-icon {
+    display: none !important;
+}
+
+#sidebar-title {
+    padding-inline: 0px !important;
+}
+
+#sidebar-switcher-arrow {
+    display: none !important;
+}
+
+/* sidebar splitter */
+.sidebar-splitter {
+    min-width: 5px!important;
+    border: unset !important;
+}
+
+#sidebar-splitter {
+    position: relative!important;
+    right: -10px!important;
+    z-index: 999!important;
+    margin-left: -5px!important;
+}
+
+/* main box */
+#appcontent {
+    background-color: #153B50 !important;
+    padding-left: 5px !important;
+    padding-top: 5px !important;
+    padding-right: 6px !important;
+    padding-bottom: 7px !important;
+}
+
+#browser {
+    background-color: #153B50 !important;
+}
+
+#appcontent browser {
+    border-radius: 10px !important;
+}
+
+/* toolbar */
+
+:root {
+    --toolbarbutton-border-radius: 10px !important;
+}
+
+#nav-bar {
+    padding-top: 5px !important;
+}
+
+#navigator-toolbox {
+    border-bottom: none!important;
+}
+
+findbar {
+    border-top: none !important;
+    margin-bottom: -10px !important;
+}
+
+#PlacesToolbarItems {
+    background: rgba(255, 255, 255, 0.1) !important;
+    border-radius: 8px !important;
+    padding: 0px 6px !important;
+}
+
+#floorp-tabbar-window-manage-container {
+    display: none !important;
+}
+
+#urlbar {
+    --urlbar-toolbar-height: unset !important;
+}
+
+#personal-bookmarks {
+    height: 32px !important;
+    margin-top: 4px !important;
+    ;
+}
+
+#sidebar-close {
+    display: none !important;
+}
+
+
+#reader-mode-button {
+    display: none !important;
+}
+
+#QRCodeGeneratePageAction {
+    display: none !important;
+}
+
+#urlbar-input {
+    min-height: 28px !important;
+}
+
+#sidebar-select-box {
+    border: none !important;
+}

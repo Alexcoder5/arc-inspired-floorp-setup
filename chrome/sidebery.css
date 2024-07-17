@@ -1,0 +1,83 @@
+#root.root {--tabs-indent: 10px;}
+#root.root {--tabs-font: 0.8975rem helvetica;}
+#root.root {--slt-padding: 6px 0;}
+#root.root {--tabs-activated-bg: rgba(255,255,255,0.141);}
+#root.root {--tabs-pinned-width: 24px;}
+#root.root {--tabs-height: 32px;}
+#root.root {--tabs-border-radius: 8px;}
+#root.root {--tabs-inner-gap: 2px;}
+#root.root {--nav-btn-width: 24px;}
+#root.root {--nav-btn-height: 24px;}
+#root.root {--nav-btn-border-radius: 8px;}
+#root.root {--frame-fg: #fbfbfb;}
+#root.root {--frame-bg: none;}
+#root.root {--tabs-pinned-height: 32px;}
+#root.root {--slt-border-radius: 4px;}
+#root.root {--tabs-activated-shadow: ;}
+
+#root {
+ 	background: #153B50;
+	flex-direction: column-reverse;
+	padding-bottom: 10px;
+	padding-left: 5px;
+}
+
+.NavigationBar {
+  background-color: transparent !important;
+}
+
+.TabsPanel .bottom-space {
+  background-color: transparent;
+}
+
+.t-box {
+	padding-top: 2px;
+	padding-left:1px;
+}
+
+#nav_bar {
+  border-radius: 8px;
+  
+  margin-left: 4px;
+  padding: 4px;
+}
+
+#nav_bar .icon {
+	height: 14px;
+	width: 14px;
+}
+
+.NavigationBar.-top {
+  width: calc(100% - var(--tabs-margin)*2);
+}
+
+.main-items {
+	justify-content: center;
+}
+
+.nav-item {
+	opacity: 0.5;
+	background: none!important;
+	box-shadow: unset!important;
+}
+
+.nav-item:hover {
+	opacity:1!important;
+}
+
+.nav-item[data-active="true"] {
+	opacity: 1;
+}
+
+#add_tp, #settings {
+	opacity:1;
+}
+
+.Tab .title {
+	font-weight: 600;
+}
+
+.hidden-panels-popup{
+	position: absolute!important;
+	top: -150px!important;
+}
