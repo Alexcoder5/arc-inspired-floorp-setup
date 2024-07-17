@@ -19,11 +19,11 @@ If you like it (I can see it by amount of stars on the project ⭐️) I can mak
 4. Go to a folder ending with `.default-release` and find a `chrome` folder (create it if needed).
 5. Drop `userChrome.css` inside the `chrome` folder (replace or create if needed).
 6. Restart Floorp.
-7. Go to Floorp settings:
-    1. **Browser Manager sidebar** → **Show the Browser Manager Sidebar** - off.
-    2. **Design** → **Tab Bar** → **Optimise browser for Vertical Tab Bar**.
-    3. *(optional)* **Design** → **Tab Bar** → **Browser appearance** → **Firefox Proton UI**.
-    4. *(optional)* **Home** → **Show blank page and disable background**.
+7. Go to Floorp settings: <br>
+    1. **Browser Manager sidebar** → **Show the Browser Manager Sidebar** - off.<br>
+    2. **Design** → **Tab Bar** → **Optimise browser for Vertical Tab Bar**.<br>
+    3. *(optional)* **Design** → **Tab Bar** → **Browser appearance** → **Firefox Proton UI**.<br>
+    4. *(optional)* **Home** → **Show blank page and disable background**.<br>
 7. View → Toolbar → Customise toolbar:
     1. **Bookmarks menu** : <br>
     `bookmarks toolbar items` (drag it from bookmarks bar) - `flexible space x3` - `search` - `flexible space x3` - `whatever you like here`.
