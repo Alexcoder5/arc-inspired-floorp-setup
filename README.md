@@ -38,6 +38,14 @@ If you like it (I can see it by amount of stars on the project ⭐️) I can mak
 
 Note: *I removed the close tab button and close it with double click (you can adjust this and many other things from settings).*
 
+## Nice to have
+### Open Bookmarks in a new tab
+
+1. Bring up Firefox's Advanced settings/config page by typing the following into your URL bar: `about:config`.
+2. Accept the risk and continue
+2. Search `browser.tabs.loadBookmarksInTabs`.
+3. Locate `browser.tabs.loadBookmarksInTabs` and double-click it to change the value from `false` to `true`.
+
 <hr/>
 
 ### If you find any bugs just post it under the `issues` in this project. I'll fix it when I have time.
