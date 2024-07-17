@@ -20,15 +20,15 @@ If you like it (I can see it by amount of stars on the project ⭐️) I can mak
 5. Drop `userChrome.css` inside the `chrome` folder (replace or create if needed).
 6. Restart Floorp.
 7. Go to Floorp settings: <br>
-    1. **Browser Manager sidebar** → **Show the Browser Manager Sidebar** - off.<br>
-    2. **Design** → **Tab Bar** → **Optimise browser for Vertical Tab Bar**.<br>
-    3. *(optional)* **Design** → **Tab Bar** → **Browser appearance** → **Firefox Proton UI**.<br>
-    4. *(optional)* **Home** → **Show blank page and disable background**.<br>
+    a. **Browser Manager sidebar** → **Show the Browser Manager Sidebar** - off.<br>
+    b. **Design** → **Tab Bar** → **Optimise browser for Vertical Tab Bar**.<br>
+    c. *(optional)* **Design** → **Tab Bar** → **Browser appearance** → **Firefox Proton UI**.<br>
+    d. *(optional)* **Home** → **Show blank page and disable background**.<br>
 7. View → Toolbar → Customise toolbar:
-    1. **Bookmarks menu** : <br>
-    `bookmarks toolbar items` (drag it from bookmarks bar) - `flexible space x3` - `search` - `flexible space x3` - `whatever you like here`.
+
+    a.`bookmarks toolbar items` (drag it from bookmarks bar) - `flexible space x3` - `search` - `flexible space x3` - `whatever you like here`. <br>
     <img style="display: block" src="img/toolbar.png" alt="toolbar" width="800"/>
-    2. On the bottom select **Toolbars** → **Bookmarks Toolbar** → **Never Show**.
+    b. On the bottom select **Toolbars** → **Bookmarks Toolbar** → **Never Show**.
 
     Note: *Add bookmarks to bookmarks toolbar without name so only icon is displayed*.
 
