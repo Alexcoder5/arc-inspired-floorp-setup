@@ -15,6 +15,7 @@ If you like it (I can see it by amount of stars on the project ⭐️) I can mak
 2. Download and install Floorp.
 3. Go to `about:profiles`. Search for **Profile: default-release** and press **Show in Finder**.
 <img style="display: block" src="img/floorp-profile.png" alt="how to download" width="600"/>
+
 4. Go to a folder ending with `.default-release` and find a `chrome` folder (create it if needed).
 5. Drop `userChrome.css` inside the `chrome` folder (replace or create if needed).
 6. Restart Floorp.
